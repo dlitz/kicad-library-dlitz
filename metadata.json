@@ -1,0 +1,32 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "DLitz.net Custom KiCad Library",
+  "description": "KiCad Symbol and Footprint Library for myself",
+  "description_full": "This is a custom library for me",
+  "identifier": "com.github.dlitz.kicad-library-dlitz",
+  "type": "library",
+  "author": {
+    "name": "Darsey Litzenberger",
+    "contact": {
+      "web": "https://github.com/dlitz/"
+    }
+  },
+  "license": "Unspecified",
+  "resources": {
+    "github": "https://github.com/dlitz/kicad-library-dlitz",
+    "documentation": "https://github.com/dlitz/kicad-library-dlitz#readme",
+    "support": "https://github.com/dlitz/kicad-library-dlitz/issues"
+  },
+  "tags": [
+    "footprints",
+    "symbols",
+    "modules"
+  ],
+  "versions": [
+    {
+      "version": "0.0.0",
+      "status": "development",
+      "kicad_version": "8.0"
+    }
+  ]
+}
