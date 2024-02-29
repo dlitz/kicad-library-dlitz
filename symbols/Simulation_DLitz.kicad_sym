@@ -50,7 +50,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Library" "${KICAD8_USER_DIR}/symbols/VCPWM.sp"
+		(property "Sim.Library" "${KICAD8_3RD_PARTY}/symbols/com_github_dlitz_kicad-library-dlitz/Simulation_DLitz.sp"
 			(at 0 -24.13 0)
 			(effects
 				(font
