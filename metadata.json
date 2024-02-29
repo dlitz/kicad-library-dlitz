@@ -11,6 +11,7 @@
       "web": "https://github.com/dlitz/"
     }
   },
+  "license": "CC-BY-NC-ND-4.0",
   "resources": {
     "github": "https://github.com/dlitz/kicad-library-dlitz",
     "documentation": "https://github.com/dlitz/kicad-library-dlitz#readme",
